@@ -1,0 +1,6 @@
+{
+  "name": "Albinia Men's & Kids Salon",
+  "description": "Premium modern men's and kids' salon website with services, reviews, and appointment booking in Riyadh, Saudi Arabia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
